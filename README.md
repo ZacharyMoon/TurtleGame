@@ -1,4 +1,4 @@
 # TurtleGame
 
-Simple game through the turtle library 
+Create a simple race through the turtle and time library 
 
